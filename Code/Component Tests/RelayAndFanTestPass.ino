@@ -1,4 +1,4 @@
-#define RELAY_PIN 14
+#define RELAY_PIN 19
 
 void setup() {
   pinMode(RELAY_PIN, OUTPUT);
