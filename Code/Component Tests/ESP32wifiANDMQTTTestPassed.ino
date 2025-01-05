@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 
-const char* ssid = "VM7462616-2.4";       
-const char* password = "k2frXdsYwqdw";    
+const char* ssid = "MYWIFISSID";       
+const char* password = "MYWIFIPASSWORD";    
 // myMQTTBROKERinformation
 const char* mqtt_server = "192.168.0.37"; 
 const int mqtt_port = 1883;
